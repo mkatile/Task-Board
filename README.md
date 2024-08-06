@@ -1,5 +1,8 @@
 # Task-Board
 
+## Description:
+My Challenge was to create a simple task board application that allows a team to manage project tasks by modifying starter code. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
+
 ## User Story
 AS A project team member with multiple tasks to organize
 I WANT a task board 
@@ -20,8 +23,10 @@ THEN the task's progress state is updated accordingly and will stay in the new c
 WHEN I click the delete button for a task
 THEN the task is removed from the task board and will not be added back after refreshing
 WHEN I refresh the page
-THEN the saved tasks persist.
+THEN the saved tasks persist
 
+## Deployment:
 
-Deployment [link](http://127.0.0.1:3002/index.html)
+The app has been diployed on Render and here is the [link](https://task-board-1-svxp.onrender.com)
+
 
